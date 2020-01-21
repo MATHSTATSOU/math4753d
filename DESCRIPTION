@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/MATHSTATSOU/math4753d
+BugReports: https://github.com/MATHSTATSOU/math4753d/issues
